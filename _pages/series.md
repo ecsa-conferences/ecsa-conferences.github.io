@@ -8,4 +8,6 @@ ECSA is the premier European conference on Software Architecture. It targets adv
 
 ECSA is a top ranked conference venue for researchers with an 'A' CORE conference rank since its entry in 2010, and more recently according to [CORE2023](http://portal.core.edu.au/conf-ranks/?search=ECSA&by=all&source=CORE2023).
 
+Since its first edition in 2007, the proceedings have been published by Springer as volumes of the LNCS series. Information on the current edition, ECSA 2023, is available its homepage.
+
 On this web site you can find information about the ECSA conference series as well as useful information for [organizing a future ECSA conference](/series/call-for-letters-of-interest/). We also provide information about the history of ECSA and its predecessor event, EWSA, as well as on awards.
