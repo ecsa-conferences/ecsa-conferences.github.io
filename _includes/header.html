@@ -1,0 +1,29 @@
+<header>
+  <nav class='text-black bg-white px-0 block fixed w-full z-50 top-0 shadow-sm'>
+      <div class="max-w-6xl h-20 flex mx-auto space-x-4 px-4">
+          <div class="grow text-2xl font-semibold flex items-center">
+              <a href="{{ '/' | relative_url }}">ECSA</a>
+          </div>
+          <!-- Main Menu -->
+          <ul id="main-menu" class="px-6 flex space-x-5 items-center">
+              <li>
+                  <a href="{{ '/history/' | relative_url }}">The Series</a>
+              </li>
+              <li>
+                  <a href="{{ '/steering-committee/' | relative_url }}">Steering Committee</a>
+              </li>
+              <li>
+                  <a href="{{ '/awards/' | relative_url }}">Awards</a>
+              </li>
+              <li>
+                  <a href="{{ '/call-for-proposals/' | relative_url }}">Call for Proposals</a>
+              </li>
+              <li>
+                {% assign editions = site.data.editions | sort: 'year' | reverse %}
+                {% assign e = editions[0] %}
+                <a href="{{ e.url }}" target="_blank" rel="noopener noreferrer">{{ e.name }} {{ e.year }}</a>                
+              </li>
+          </ul>
+      </div>
+  </nav>
+</header>

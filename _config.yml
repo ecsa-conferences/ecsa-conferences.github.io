@@ -1,0 +1,36 @@
+title: European Conference on Software Architecture (ECSA) series
+email: d.feitosa@rug.nl
+description: >-
+  Website of the European Conference on Software Architecture (ECSA) series. Here you can find information about the ECSA history, steering committee, and awards.
+baseurl: "/series/"
+# url: ""
+# twitter_username: jekyllrb
+# github_username:  jekyll
+
+# plugins:
+  # - jekyll-feed
+
+include:
+- _pages
+
+exclude:
+  - docker-jekyll.sh
+  - docker-jekyll.ps1
+  - .jekyll-cache/
+  - cache/
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - Makefile
+  - .nmvrc
+  - package.json
+  - package-lock.json
+  - node_modules/
+  - tailwind.config.js
+#   - .sass-cache/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+#   - gemfiles/

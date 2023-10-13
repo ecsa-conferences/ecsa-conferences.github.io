@@ -1,0 +1,43 @@
+---
+layout: base
+---
+
+  <div class="pt-20 bg-gray-100 text-black shadow-sm">
+    <div class="container max-w-6xl mx-auto px-4 py-6">
+      <h1 class="text-3xl tracking-wider">ECSA</h1>
+    </div>
+  </div>
+
+  <div class="container max-w-6xl mx-auto px-4 pt-6 pb-6 pb-md-10">
+    <div class="flex flex-wrap justify-start">
+        <div class="w-full grid grid-cols-3 gap-4">
+            <div class="col-span-2">
+                <div class="prose-xl max-w-none">{{content}}</div>
+            </div>
+            <div>
+                <a class="twitter-timeline" data-height="400" data-theme="light" href="https://twitter.com/ECSACONF?ref_src=twsrc%5Etfw">Tweets by ECSACONF</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+            </div>
+        </div>
+        <div class="w-full pt-4">
+            <h2 class="text-2xl">Upcoming Edition</h2>
+            {% assign current_year = "now" | date: "%Y" %}
+            {% for c in site.data.editions %}
+                {% if c.year == current_year %}
+                {{ c.year }}
+                {% endif %}
+            {% endfor %}
+        </div>
+        <div class="w-full pt-4">
+            <h2 class="text-2xl">Previous Recent Editions</h2>
+            <ul>
+                {% for c in site.data.editions %}
+                    {% if forloop.index <= 5 and c.year < current_year %}
+                       <li>{{c.year}} <a href="{{c.url}}" target="_blank" rel="noopener noreferrer">{{c.title}}</a>, {{c.date}}, {{c.location}}</li>
+                    {% elsif forloop.index <= 7 and c.year < current_year %}
+                      <li>** {{c.year}} <a href="{{c.url}}" target="_blank" rel="noopener noreferrer">{{c.title}}</a>, {{c.date}}, {{c.location}}</li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+  </div>

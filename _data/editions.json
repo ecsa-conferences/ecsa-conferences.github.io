@@ -1,0 +1,479 @@
+[
+    {
+        "year": "2023",
+        "name": "ECSA",
+        "edition": "17th",
+        "location": "Istanbul, Turkey",
+        "date": "18-22 September",
+        "url": "https://conf.researchr.org/home/ecsa-2023",
+        "committe": {
+            "general-chair": [
+                "Bedir Tekinerdogan"
+            ]
+        },
+        "proceedings": {
+            "url": "https://doi.org/10.1007/978-3-031-42592-9",
+            "isbn": "978-3-031-42591-2",
+            "publisher": "Springer",
+            "editors": [
+                "Bedir Tekinerdogan",
+                "Catia Trubiani",
+                "Chouki Tibermacine",
+                "Patrizia Scandurra",
+                "Carlos E. Cuesta"
+            ]
+        }
+    },
+    {
+        "year": "2022",
+        "name": "ECSA",
+        "edition": "16th",
+        "location": "Prague, Czech Republic",
+        "date": "19-23 September",
+        "url": "https://conf.researchr.org/home/ecsa-2022",
+        "committe": {
+            "general-chair": [
+                "Thaís Vasconcelos Batista",
+                "Tomás Bures"
+            ]
+        },
+        "proceedings": {
+            "url": "https://doi.org/10.1007/978-3-031-16697-6",
+            "isbn": "978-3-031-16696-9",
+            "publisher": "Springer",
+            "editors": [
+                "Ilias Gerostathopoulos",
+                "Grace A. Lewis",
+                "Thaís Vasconcelos Batista",
+                "Tomás Bures"
+            ]
+        }
+    },
+    {
+        "year": "2021",
+        "name": "ECSA",
+        "edition": "15th",
+        "location": "Virtual Event / Växjö, Sweden",
+        "date": "13-17 September",
+        "url": "https://conf.researchr.org/home/ecsa-2021",
+        "committe": {
+            "general-chair": [
+                "Raffaela Mirandola",
+                "Danny Weyns"
+            ]
+        },
+        "proceedings": {
+            "url": "https://doi.org/10.1007/978-3-030-86044-8",
+            "isbn": "978-3-030-86043-1",
+            "publisher": "Springer",
+            "editors": [
+                "Stefan Biffl",
+                "Elena Navarro 0001",
+                "Welf Löwe",
+                "Marjan Sirjani",
+                "Raffaela Mirandola",
+                "Danny Weyns"
+            ]
+        }
+    },
+    {
+        "year": "2020",
+        "name": "ECSA",
+        "edition": "14th",
+        "location": "L'Aquila, Italy",
+        "date": "14-18 September",
+        "url": "https://conf.researchr.org/home/ecsa-2020",
+        "committe": {
+            "general-chair": [
+                "Henry Muccini"
+            ]
+        },
+        "proceedings": {
+            "url": "https://doi.org/10.1007/978-3-030-58923-3",
+            "isbn": "978-3-030-58922-6",
+            "publisher": "Springer",
+            "editors": [
+                "Anton Jansen",
+                "Ivano Malavolta",
+                "Henry Muccini",
+                "Ipek Ozkaya",
+                "Olaf Zimmermann"
+            ]
+        }
+    },
+    {
+        "year": "2019",
+        "name": "ECSA",
+        "edition": "13th",
+        "location": "Paris, France",
+        "date": "9-13 September",
+        "url": "https://ecsa2019.univ-lille.fr/",
+        "url-archive": "https://web.archive.org/web/20230530102535/https://ecsa2019.univ-lille.fr/",
+        "committe": {
+            "general-chair": [
+                "Laurence Duchien"
+            ]
+        },
+        "proceedings": {
+            "url": "https://doi.org/10.1007/978-3-030-29983-5",
+            "isbn": "978-3-030-29982-8",
+            "publisher": "Springer",
+            "editors": [
+                "Tomás Bures",
+                "Laurence Duchien",
+                "Paola Inverardi"
+            ]
+        }
+    },
+    {
+        "year": "2018",
+        "name": "ECSA",
+        "edition": "12th",
+        "location": "Madrid, Spain",
+        "date": "24-28 September",
+        "url": "http://eventos.upm.es/go/ecsa2018",
+        "url-archive": "https://web.archive.org/web/20190930032746/http://eventos.upm.es/12427/detail/european-conference-on-software-architectures-2018-ecsa18.html",
+        "committe": {
+            "general-chair": [
+                "Jennifer Pérez Benedí"
+            ]
+        },
+        "proceedings": {
+            "url": "https://doi.org/10.1007/978-3-030-00761-4",
+            "isbn": "978-3-030-00760-7",
+            "publisher": "Springer",
+            "editors": [
+                "Carlos E. Cuesta",
+                "David Garlan",
+                "Jennifer Pérez"
+            ]
+        }
+    },
+    {
+        "year": "2017",
+        "name": "ECSA",
+        "edition": "11th",
+        "location": "Canterbury, UK",
+        "date": "11-15 September",
+        "url": "https://www.cs.kent.ac.uk/events/2017/ECSA2017/",
+        "url-archive": "https://web.archive.org/web/20221205234454/https://www.cs.kent.ac.uk/events/2017/ECSA2017/",
+        "committe": {
+            "general-chair": [
+                "Rogério de Lemos"
+            ]
+        },
+        "proceedings": {
+            "url": "https://doi.org/10.1007/978-3-319-65831-5",
+            "isbn": "978-3-319-65830-8",
+            "publisher": "Springer",
+            "editors": [
+                "Antónia Lopes",
+                "Rogério de Lemos"
+            ]
+        }
+    },
+    {
+        "year": "2016",
+        "name": "ECSA",
+        "edition": "10th",
+        "location": "Copenhagen, Denmark",
+        "date": "28 November-2 December",
+        "url": "http://ecsa2016.icmc.usp.br/",
+        "url-archive": "https://web.archive.org/web/20220407121831/http://ecsa2016.icmc.usp.br/",
+        "committe": {
+            "general-chair": [
+                "Muhammad Ali Babar"
+            ]
+        },
+        "proceedings": {
+            "url": "https://doi.org/10.1007/978-3-319-48992-6",
+            "isbn": "978-3-319-48991-9",
+            "publisher": "Springer",
+            "editors": [
+                "Bedir Tekinerdogan",
+                "Uwe Zdun",
+                "Muhammad Ali Babar"
+            ]
+        }
+    },
+    {
+        "year": "2015",
+        "name": "ECSA",
+        "edition": "9th",
+        "location": "Dubrovnik/Cavtat, Croatia",
+        "date": "7-11 September",
+        "url": "",
+        "url-archive": "https://web.archive.org/web/20160525061804/http://ecsa-conference.org/2015/",
+        "committe": {
+            "general-chair": [
+                "Ivica Crnković"
+            ]
+        },
+        "proceedings": {
+            "url": "https://doi.org/10.1007/978-3-319-23727-5",
+            "isbn": "978-3-319-23726-8",
+            "publisher": "Springer",
+            "editors": [
+                "Danny Weyns",
+                "Raffaela Mirandola",
+                "Ivica Crnković"
+            ]
+        }
+    },
+    {
+        "year": "2014",
+        "name": "ECSA",
+        "edition": "8th",
+        "location": "Vienna, Austria",
+        "date": "25-29 August",
+        "url": "https://ecsa2014.cs.univie.ac.at/",
+        "url-archive": "https://web.archive.org/web/20230815211708/https://ecsa2014.cs.univie.ac.at/",
+        "committe": {
+            "general-chair": [
+                "Uwe Zdun"
+            ]
+        },
+        "proceedings": {
+            "url": "https://doi.org/10.1007/978-3-319-09970-5",
+            "isbn": "978-3-319-09969-9",
+            "publisher": "Springer",
+            "editors": [
+                "Paris Avgeriou",
+                "Uwe Zdun"
+            ]
+        }
+    },
+    {
+        "year": "2013",
+        "name": "ECSA",
+        "edition": "7th",
+        "location": "Montpellier, France",
+        "date": "1-5 July",
+        "url": "https://www.lirmm.fr/ecsa13/",
+        "url-archive": "https://web.archive.org/web/20210512045815/www.lirmm.fr/ecsa13/",
+        "committe": {
+            "general-chair": [
+                "Marianne Huchard"
+            ]
+        },
+        "proceedings": {
+            "url": "https://doi.org/10.1007/978-3-642-39031-9",
+            "isbn": "978-3-642-39030-2",
+            "publisher": "Springer",
+            "editors": [
+                "Khalil Drira"
+            ]
+        }
+    },
+    {
+        "year": "2012",
+        "name": "ECSA",
+        "edition": "6th",
+        "complete-name": "Joint 10th Working IEEE/IFIP Conference on Software Architecture & 6th European Conference on Software Architecture",
+        "location": "Helsinki, Finland",
+        "date": "20-24 August",
+        "url": "http://wicsa2012.soberit.hut.fi/",
+        "url-archive": "https://web.archive.org/web/20230311075138/http://wicsa2012.soberit.hut.fi/",
+        "committe": {
+            "general-chair": [
+                "Tomi Männistö"
+            ]
+        },
+        "proceedings": {
+            "url": "https://ieeexplore.ieee.org/xpl/conhome/6336551/proceeding",
+            "isbn": "978-1-4673-2809-8",
+            "publisher": "IEEE",
+            "editors": [
+                "Muhammad Ali Babar",
+                "Carlos E. Cuesta",
+                "Juha Savolainen",
+                "Tomi Männistö"
+            ]
+        }
+    },
+    {
+        "year": "2011",
+        "name": "ECSA",
+        "edition": "5th",
+        "location": "Essen, Germany",
+        "date": "13-16 September",
+        "url": "",
+        "url-archive": "https://web.archive.org/web/20120915064718/http://www.ecsa2011.org/",
+        "committe": {
+            "general-chair": [
+                
+            ]
+        },
+        "proceedings": {
+            "url": "https://doi.org/10.1007/978-3-642-23798-0",
+            "isbn": "978-3-642-23797-3",
+            "publisher": "Springer",
+            "editors": [
+                "Ivica Crnković",
+                "Volker Gruhn",
+                "Matthias Book"
+            ]
+        }
+    },
+    {
+        "year": "2010",
+        "name": "ECSA",
+        "edition": "4th",
+        "location": "Copenhagen, Denmark",
+        "date": "23-26 August",
+        "url": "",
+        "url-archive": "https://web.archive.org/web/20110701180126/http://ecsa2010.org/",
+        "committe": {
+            "general-chair": [
+                "Ian Gorton"
+            ]
+        },
+        "proceedings": {
+            "url": "https://doi.org/10.1007/978-3-642-15114-9",
+            "isbn": "978-3-642-15113-2",
+            "publisher": "Springer",
+            "editors": [
+                "Muhammad Ali Babar",
+                "Ian Gorton"
+            ]
+        }
+    },
+    {
+        "year": "2009",
+        "name": "WICSA/ECSA",
+        "complete-name": "Joint 8th Working IEEE/IFIP Conference on Software Architecture and the 3rd European Conference on Software Architecture",
+        "edition": "3rd",
+        "location": "Cambridge, UK",
+        "date": "14-17 September",
+        "url": "",
+        "url-archive": "https://icsa-conferences.org/series/WICSA/2009/",
+        "committe": {
+            "general-chair": [
+                "Rick Kazman"
+            ]
+        },
+        "proceedings": {
+            "url": "https://ieeexplore.ieee.org/xpl/conhome/5275158/proceeding",
+            "isbn": "978-1-4244-4984-2",
+            "publisher": "IEEE Computer Society",
+            "editors": []
+        }
+    },
+    {
+        "year": "2008",
+        "name": "ECSA",
+        "edition": "2nd",
+        "location": "Paphos, Cyprus",
+        "date": "29 September-1 October",
+        "url": "http://www.ecsa2008.cs.ucy.ac.cy/",
+        "url-archive": "https://web.archive.org/web/20181117114039/http://www.ecsa2008.cs.ucy.ac.cy/",
+        "committe": {
+            "general-chair": [
+                "George A. Papadopoulos"
+            ]
+        },
+        "proceedings": {
+            "url": "https://doi.org/10.1007/978-3-540-88030-1",
+            "isbn": "978-3-540-88029-5",
+            "publisher": "Springer",
+            "editors": [
+                "Ronald Morrison",
+                "Dharini Balasubramaniam",
+                "Katrina Falkner"
+            ]
+        }
+    },
+    {
+        "year": "2007",
+        "name": "ECSA",
+        "edition": "1st",
+        "location": "Aranjuez, Spain",
+        "date": "24-26 September",
+        "url": "",
+        "url-archive": "https://web.archive.org/web/20090721021812/http://kybele.escet.urjc.es/ecsa/",
+        "committe": {
+            "general-chair": [
+                "Carlos E. Cuesta",
+                "Esperanza Marcos"
+            ]
+        },
+        "proceedings": {
+            "url": "https://doi.org/10.1007/978-3-540-75132-8",
+            "isbn": "978-3-540-75131-1",
+            "publisher": "Springer",
+            "editors": [
+                "Flávio Oquendo"
+            ]
+        }
+    },
+    {
+        "year": "2006",
+        "name": "EWSA",
+        "complete-name": "3rd European Workshop on Software Architecture",
+        "edition": "3rd",
+        "location": "Nantes, France",
+        "date": "4-5 September",
+        "url": "",
+        "url-archive": "",
+        "committe": {
+        },
+        "proceedings": {
+            "url": "https://doi.org/10.1007/11966104",
+            "isbn": "3-540-69271-1",
+            "publisher": "Springer",
+            "editors": [
+                "Volker Gruhn",
+                "Flávio Oquendo"
+            ]
+        }
+    },
+    {
+        "year" : "2005",
+        "name" : "EWSA",
+        "complete-name" : "2nd European Workshop on Software Architecture",
+        "edition" : "2nd",
+        "location" : "Pisa, Italy",
+        "date" : "13-14 June",
+        "url" : "",
+        "url-archive" : "https://web.archive.org/web/20060824013254/http://www.arch-ware.org/ewsa/2005/",
+        "committe" : {
+            "organizing-chair" : [
+                "John Favaro"
+            ]
+        },
+        "proceedings" : {
+            "url" : "https://doi.org/10.1007/b136986",
+            "isbn" : "3-540-26275-X",
+            "publisher" : "Springer",
+            "editors" : [
+                "Ronald Morrison",
+                "Flávio Oquendo"
+            ]
+        }
+    },
+    {
+        "year" : "2004",
+        "name" : "EWSA",
+        "complete-name" : "1st European Workshop on Software Architecture",
+        "edition" : "1st",
+        "location" : "St Andrews, UK",
+        "date" : "21-22 May",
+        "url" : "",
+        "url-archive" : "https://web.archive.org/web/20060513181243/http://www.arch-ware.org/ewsa/2004/",
+        "committe" : {
+            "organizing-chair" : [
+                "Ron Morrison"
+            ]
+        },
+        "proceedings" : {
+            "url" : "https://doi.org/10.1007/b97879",
+            "isbn" : "3-540-22000-3",
+            "publisher" : "Springer",
+            "editors" : [
+                "Flávio Oquendo",
+                "Brian Warboys",
+                "Ronald Morrison"
+            ]
+        }
+    }
+]
