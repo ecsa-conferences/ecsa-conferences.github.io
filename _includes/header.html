@@ -1,28 +1,35 @@
 <header>
-  <nav class='text-black bg-white px-0 block fixed w-full z-50 top-0 shadow-sm'>
-      <div class="max-w-6xl h-20 flex mx-auto space-x-4 px-4">
-          <div class="grow text-2xl font-semibold flex items-center">
-              <a href="{{ '/series/' | relative_url }}">ECSA</a>
-          </div>
-          <!-- Main Menu -->
-          <ul id="main-menu" class="px-6 flex space-x-5 items-center">
-              <li>
-                  <a href="{{ '/series/history/' | relative_url }}">The Series</a>
-              </li>
-              <li>
-                  <a href="{{ '/series/steering-committee/' | relative_url }}">Steering Committee</a>
-              </li>
-              <li>
-                  <a href="{{ '/series/awards/' | relative_url }}">Awards</a>
-              </li>
-              <li>
-                  <a href="{{ '/series/call-for-letters-of-interest/' | relative_url }}">Call for Letters of Interest</a>
-              </li>
-              <li>
-                {% assign e = site.data.editions | sort: 'year' | last %}
-                <a href="{{ e.url }}" target="_blank" rel="noopener noreferrer">{{ e.name }}</a>
-              </li>
-          </ul>
-      </div>
-  </nav>
-</header>
+    <nav class='text-black bg-white px-0 block fixed w-full z-50 top-0 shadow-sm'>
+        <div class="max-w-6xl h-20 flex mx-auto items-center">
+            <div class="grow flex items-center">
+                <a class="pl-4 text-2xl font-semibold" href="{{ '/series/' | relative_url }}">ECSA</a>
+            </div>
+            
+            <!-- Toggle Button -->
+            <button id="menu-toggle" class="md:hidden px-4 pb-2 text-4xl hover:bg-gray-200">
+                ☰
+            </button>
+            
+            <!-- Main Menu -->
+            <ul id="main-menu" class="hidden absolute px-4 max-md:w-full top-full md:static md:flex md:flex-row bg-white shadow-lg md:shadow-none md:space-x-5 items-center">
+                <li class="md:py-0 py-2">
+                    <a href="{{ '/series/history/' | relative_url }}">The Series</a>
+                </li>
+                <li class="md:py-0 py-2">
+                    <a href="{{ '/series/steering-committee/' | relative_url }}">Steering Committee</a>
+                </li>
+                <li class="md:py-0 py-2">
+                    <a href="{{ '/series/awards/' | relative_url }}">Awards</a>
+                </li>
+                <li class="md:py-0 py-2">
+                    <a href="{{ '/series/call-for-letters-of-interest/' | relative_url }}">Call for Letters of Interest</a>
+                </li>
+                <li class="md:py-0 py-2">
+                  {% assign e = site.data.editions | sort: 'year' | last %}
+                  <a href="{{ e.url }}" target="_blank" rel="noopener noreferrer">{{ e.name }}</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+  </header>
+  
