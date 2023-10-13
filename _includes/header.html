@@ -19,8 +19,8 @@
                   <a href="{{ '/series/call-for-letters-of-interest/' | relative_url }}">Call for Letters of Interest</a>
               </li>
               <li>
-                {% assign edition = site.data.editions | sort: 'year' | last %}
-                <a href="{{ e.url }}" target="_blank" rel="noopener noreferrer">{{ edition.name }}</a>
+                {% assign e = site.data.editions | sort: 'year' | last %}
+                <a href="{{ e.url }}" target="_blank" rel="noopener noreferrer">{{ e.name }}</a>
               </li>
           </ul>
       </div>
