@@ -1,0 +1,14 @@
+{%- assign editions = site.data.editions | sort: "year" -%}
+{%- for c in editions -%}
+  {%- unless c.name contains "EWSA" -%}
+  {{c.name}} ({{c.location}})
+  {%- if forloop.last == false -%}
+    {%- assign beforelast = forloop.length | minus: 1 -%}
+    {%- if forloop.index == beforelast %}
+      and 
+    {% else -%}
+      , 
+    {% endif -%}
+  {%- endif -%}
+  {%- endunless -%}
+{%- endfor -%}

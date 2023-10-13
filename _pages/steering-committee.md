@@ -37,3 +37,7 @@ The members of the ECSA Steering Committee are:
 The honorary title of ECSA Fellow is awarded by the ECSA Steering Committee to individuals who have made outstanding, long-term scientific and service contributions to the ECSA Community.
 
 * Ivica Crnković (since 2022)
+
+## Board Support
+
+* Daniel Feitosa, University of Groningen, The Netherlands

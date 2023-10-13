@@ -1,7 +1,7 @@
 [
     {
         "year": "2023",
-        "name": "ECSA",
+        "name": "ECSA 2023",
         "edition": "17th",
         "location": "Istanbul, Turkey",
         "date": "18-22 September",
@@ -26,7 +26,7 @@
     },
     {
         "year": "2022",
-        "name": "ECSA",
+        "name": "ECSA 2022",
         "edition": "16th",
         "location": "Prague, Czech Republic",
         "date": "19-23 September",
@@ -51,9 +51,9 @@
     },
     {
         "year": "2021",
-        "name": "ECSA",
+        "name": "ECSA 2021",
         "edition": "15th",
-        "location": "Virtual Event / Växjö, Sweden",
+        "location": "Växjö, Sweden, virtual",
         "date": "13-17 September",
         "url": "https://conf.researchr.org/home/ecsa-2021",
         "committe": {
@@ -78,9 +78,9 @@
     },
     {
         "year": "2020",
-        "name": "ECSA",
+        "name": "ECSA 2020",
         "edition": "14th",
-        "location": "L'Aquila, Italy",
+        "location": "L'Aquila, Italy, virtual",
         "date": "14-18 September",
         "url": "https://conf.researchr.org/home/ecsa-2020",
         "committe": {
@@ -103,7 +103,7 @@
     },
     {
         "year": "2019",
-        "name": "ECSA",
+        "name": "ECSA 2019",
         "edition": "13th",
         "location": "Paris, France",
         "date": "9-13 September",
@@ -127,7 +127,7 @@
     },
     {
         "year": "2018",
-        "name": "ECSA",
+        "name": "ECSA 2018",
         "edition": "12th",
         "location": "Madrid, Spain",
         "date": "24-28 September",
@@ -151,9 +151,9 @@
     },
     {
         "year": "2017",
-        "name": "ECSA",
+        "name": "ECSA 2017",
         "edition": "11th",
-        "location": "Canterbury, UK",
+        "location": "Canterbury, United Kingdom",
         "date": "11-15 September",
         "url": "https://www.cs.kent.ac.uk/events/2017/ECSA2017/",
         "url-archive": "https://web.archive.org/web/20221205234454/https://www.cs.kent.ac.uk/events/2017/ECSA2017/",
@@ -174,7 +174,7 @@
     },
     {
         "year": "2016",
-        "name": "ECSA",
+        "name": "ECSA 2016",
         "edition": "10th",
         "location": "Copenhagen, Denmark",
         "date": "28 November-2 December",
@@ -198,7 +198,7 @@
     },
     {
         "year": "2015",
-        "name": "ECSA",
+        "name": "ECSA 2015",
         "edition": "9th",
         "location": "Dubrovnik/Cavtat, Croatia",
         "date": "7-11 September",
@@ -222,7 +222,7 @@
     },
     {
         "year": "2014",
-        "name": "ECSA",
+        "name": "ECSA 2014",
         "edition": "8th",
         "location": "Vienna, Austria",
         "date": "25-29 August",
@@ -245,7 +245,7 @@
     },
     {
         "year": "2013",
-        "name": "ECSA",
+        "name": "ECSA 2013",
         "edition": "7th",
         "location": "Montpellier, France",
         "date": "1-5 July",
@@ -267,7 +267,7 @@
     },
     {
         "year": "2012",
-        "name": "ECSA",
+        "name": "ECSA 2012/WICSA 2012",
         "edition": "6th",
         "complete-name": "Joint 10th Working IEEE/IFIP Conference on Software Architecture & 6th European Conference on Software Architecture",
         "location": "Helsinki, Finland",
@@ -293,7 +293,7 @@
     },
     {
         "year": "2011",
-        "name": "ECSA",
+        "name": "ECSA 2011",
         "edition": "5th",
         "location": "Essen, Germany",
         "date": "13-16 September",
@@ -317,7 +317,7 @@
     },
     {
         "year": "2010",
-        "name": "ECSA",
+        "name": "ECSA 2010",
         "edition": "4th",
         "location": "Copenhagen, Denmark",
         "date": "23-26 August",
@@ -340,10 +340,10 @@
     },
     {
         "year": "2009",
-        "name": "WICSA/ECSA",
+        "name": "ECSA 2009/WICSA 2009",
         "complete-name": "Joint 8th Working IEEE/IFIP Conference on Software Architecture and the 3rd European Conference on Software Architecture",
         "edition": "3rd",
-        "location": "Cambridge, UK",
+        "location": "Cambridge, United Kingdom",
         "date": "14-17 September",
         "url": "",
         "url-archive": "https://icsa-conferences.org/series/WICSA/2009/",
@@ -361,7 +361,7 @@
     },
     {
         "year": "2008",
-        "name": "ECSA",
+        "name": "ECSA 2008",
         "edition": "2nd",
         "location": "Paphos, Cyprus",
         "date": "29 September-1 October",
@@ -385,7 +385,7 @@
     },
     {
         "year": "2007",
-        "name": "ECSA",
+        "name": "ECSA 2007",
         "edition": "1st",
         "location": "Aranjuez, Spain",
         "date": "24-26 September",
@@ -408,7 +408,7 @@
     },
     {
         "year": "2006",
-        "name": "EWSA",
+        "name": "EWSA 2006",
         "complete-name": "3rd European Workshop on Software Architecture",
         "edition": "3rd",
         "location": "Nantes, France",
@@ -429,7 +429,7 @@
     },
     {
         "year" : "2005",
-        "name" : "EWSA",
+        "name" : "EWSA 2005",
         "complete-name" : "2nd European Workshop on Software Architecture",
         "edition" : "2nd",
         "location" : "Pisa, Italy",
@@ -453,10 +453,10 @@
     },
     {
         "year" : "2004",
-        "name" : "EWSA",
+        "name" : "EWSA 2004",
         "complete-name" : "1st European Workshop on Software Architecture",
         "edition" : "1st",
-        "location" : "St Andrews, UK",
+        "location" : "St Andrews, United Kingdom",
         "date" : "21-22 May",
         "url" : "",
         "url-archive" : "https://web.archive.org/web/20060513181243/http://www.arch-ware.org/ewsa/2004/",

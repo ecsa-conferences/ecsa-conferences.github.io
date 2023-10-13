@@ -16,12 +16,11 @@
                   <a href="{{ '/series/awards/' | relative_url }}">Awards</a>
               </li>
               <li>
-                  <a href="{{ '/series/call-for-proposals/' | relative_url }}">Call for Proposals</a>
+                  <a href="{{ '/series/call-for-letters-of-interest/' | relative_url }}">Call for Letters of Interest</a>
               </li>
               <li>
-                {% assign editions = site.data.editions | sort: 'year' | reverse %}
-                {% assign e = editions[0] %}
-                <a href="{{ e.url }}" target="_blank" rel="noopener noreferrer">{{ e.name }} {{ e.year }}</a>                
+                {% assign edition = site.data.editions | sort: 'year' | last %}
+                <a href="{{ e.url }}" target="_blank" rel="noopener noreferrer">{{ edition.name }}</a>
               </li>
           </ul>
       </div>
