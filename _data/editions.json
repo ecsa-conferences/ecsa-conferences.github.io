@@ -6,6 +6,10 @@
         "location": "Istanbul, Turkey",
         "date": "18-22 September",
         "url": "https://conf.researchr.org/home/ecsa-2023",
+        "banner": {
+            "path": "/assets/img/ecsa-2023-banner.jpg",
+            "width": "100%"
+        },
         "committe": {
             "general-chair": [
                 "Bedir Tekinerdogan"
@@ -31,6 +35,10 @@
         "location": "Prague, Czech Republic",
         "date": "19-23 September",
         "url": "https://conf.researchr.org/home/ecsa-2022",
+        "banner": {
+            "path": "/assets/img/ecsa-2022-banner.jpg",
+            "width": "100%"
+        },
         "committe": {
             "general-chair": [
                 "Thaís Vasconcelos Batista",
@@ -56,6 +64,10 @@
         "location": "Växjö, Sweden, virtual",
         "date": "13-17 September",
         "url": "https://conf.researchr.org/home/ecsa-2021",
+        "banner": {
+            "path": "/assets/img/ecsa-2021-banner.jpg",
+            "width": "100%"
+        },
         "committe": {
             "general-chair": [
                 "Raffaela Mirandola",
@@ -83,6 +95,10 @@
         "location": "L'Aquila, Italy, virtual",
         "date": "14-18 September",
         "url": "https://conf.researchr.org/home/ecsa-2020",
+        "banner": {
+            "path": "/assets/img/ecsa-2020-banner.png",
+            "width": "100%"
+        },
         "committe": {
             "general-chair": [
                 "Henry Muccini"
@@ -109,6 +125,10 @@
         "date": "9-13 September",
         "url": "https://ecsa2019.univ-lille.fr/",
         "url-archive": "https://web.archive.org/web/20230530102535/https://ecsa2019.univ-lille.fr/",
+        "banner": {
+            "path": "/assets/img/ecsa-2019-banner.jpg",
+            "width": "100%"
+        },
         "committe": {
             "general-chair": [
                 "Laurence Duchien"
@@ -133,6 +153,10 @@
         "date": "24-28 September",
         "url": "http://eventos.upm.es/go/ecsa2018",
         "url-archive": "https://web.archive.org/web/20190930032746/http://eventos.upm.es/12427/detail/european-conference-on-software-architectures-2018-ecsa18.html",
+        "banner": {
+            "path": "/assets/img/ecsa-2018-banner.jpg",
+            "width": "100%"
+        },
         "committe": {
             "general-chair": [
                 "Jennifer Pérez Benedí"
@@ -157,6 +181,10 @@
         "date": "11-15 September",
         "url": "https://www.cs.kent.ac.uk/events/2017/ECSA2017/",
         "url-archive": "https://web.archive.org/web/20221205234454/https://www.cs.kent.ac.uk/events/2017/ECSA2017/",
+        "banner": {
+            "path": "/assets/img/ecsa-2017-banner.jpg",
+            "width": "100%"
+        },
         "committe": {
             "general-chair": [
                 "Rogério de Lemos"
@@ -180,6 +208,10 @@
         "date": "28 November-2 December",
         "url": "http://ecsa2016.icmc.usp.br/",
         "url-archive": "https://web.archive.org/web/20220407121831/http://ecsa2016.icmc.usp.br/",
+        "banner": {
+            "path": "/assets/img/ecsa-2016-banner.jpg",
+            "width": "100%"
+        },
         "committe": {
             "general-chair": [
                 "Muhammad Ali Babar"
@@ -204,6 +236,10 @@
         "date": "7-11 September",
         "url": "",
         "url-archive": "https://web.archive.org/web/20160525061804/http://ecsa-conference.org/2015/",
+        "banner": {
+            "path": "/assets/img/ecsa-2015-banner.jpg",
+            "width": "100%"
+        },
         "committe": {
             "general-chair": [
                 "Ivica Crnković"
@@ -228,6 +264,10 @@
         "date": "25-29 August",
         "url": "https://ecsa2014.cs.univie.ac.at/",
         "url-archive": "https://web.archive.org/web/20230815211708/https://ecsa2014.cs.univie.ac.at/",
+        "banner": {
+            "path": "/assets/img/ecsa-2014-banner.jpg",
+            "width": "100%"
+        },
         "committe": {
             "general-chair": [
                 "Uwe Zdun"
@@ -251,6 +291,10 @@
         "date": "1-5 July",
         "url": "https://www.lirmm.fr/ecsa13/",
         "url-archive": "https://web.archive.org/web/20210512045815/www.lirmm.fr/ecsa13/",
+        "banner": {
+            "path": "/assets/img/ecsa-2013-banner.jpg",
+            "width": "100%"
+        },
         "committe": {
             "general-chair": [
                 "Marianne Huchard"
@@ -274,6 +318,10 @@
         "date": "20-24 August",
         "url": "http://wicsa2012.soberit.hut.fi/",
         "url-archive": "https://web.archive.org/web/20230311075138/http://wicsa2012.soberit.hut.fi/",
+        "banner": {
+            "path": "/assets/img/ecsa-wicsa-2012-banner.jpg",
+            "width": "100%"
+        },
         "committe": {
             "general-chair": [
                 "Tomi Männistö"
@@ -299,6 +347,10 @@
         "date": "13-16 September",
         "url": "",
         "url-archive": "https://web.archive.org/web/20120915064718/http://www.ecsa2011.org/",
+        "banner": {
+            "path": "/assets/img/ecsa-2011-banner.jpg",
+            "width": "100%"
+        },
         "committe": {
             "general-chair": [
                 
@@ -323,6 +375,10 @@
         "date": "23-26 August",
         "url": "",
         "url-archive": "https://web.archive.org/web/20110701180126/http://ecsa2010.org/",
+        "banner": {
+            "path": "/assets/img/ecsa-2010-banner.jpg",
+            "width": "100%"
+        },
         "committe": {
             "general-chair": [
                 "Ian Gorton"
@@ -347,6 +403,10 @@
         "date": "14-17 September",
         "url": "",
         "url-archive": "https://icsa-conferences.org/series/WICSA/2009/",
+        "banner": {
+            "path": "/assets/img/ecsa-wicsa-2009-banner.jpg",
+            "width": "100%"
+        },
         "committe": {
             "general-chair": [
                 "Rick Kazman"
@@ -367,6 +427,10 @@
         "date": "29 September-1 October",
         "url": "http://www.ecsa2008.cs.ucy.ac.cy/",
         "url-archive": "https://web.archive.org/web/20181117114039/http://www.ecsa2008.cs.ucy.ac.cy/",
+        "banner": {
+            "path": "/assets/img/ecsa-2008-banner.jpg",
+            "width": "100%"
+        },
         "committe": {
             "general-chair": [
                 "George A. Papadopoulos"
@@ -391,6 +455,10 @@
         "date": "24-26 September",
         "url": "",
         "url-archive": "https://web.archive.org/web/20090721021812/http://kybele.escet.urjc.es/ecsa/",
+        "banner": {
+            "path": "/assets/img/ecsa-2007-banner.jpg",
+            "width": "100%"
+        },
         "committe": {
             "general-chair": [
                 "Carlos E. Cuesta",
@@ -436,6 +504,10 @@
         "date" : "13-14 June",
         "url" : "",
         "url-archive" : "https://web.archive.org/web/20060824013254/http://www.arch-ware.org/ewsa/2005/",
+        "banner" : {
+            "path" : "/assets/img/ewsa-2005-banner.jpg",
+            "width" : "100%"
+        },
         "committe" : {
             "organizing-chair" : [
                 "John Favaro"
@@ -460,6 +532,10 @@
         "date" : "21-22 May",
         "url" : "",
         "url-archive" : "https://web.archive.org/web/20060513181243/http://www.arch-ware.org/ewsa/2004/",
+        "banner" : {
+            "path" : "/assets/img/ewsa-2004-banner.jpg",
+            "width" : "100%"
+        },
         "committe" : {
             "organizing-chair" : [
                 "Ron Morrison"

@@ -1,0 +1,19 @@
+{% assign c = include.edition %}
+{% assign url = c.url %}
+{% unless c.url %}
+{% assign url = c["url-archive"] %}
+{% endunless %}
+
+{% if c.banner %}
+<div class="w-full py-4">
+    <a href="{{url}}" target="_blank" rel="noopener noreferrer">
+        <img class="rounded shadow" src="{{ c.banner.path | relative_url }}" width="{{c.banner.width}}"/>
+    </a>
+</div>
+{% else %}
+<a href="{{url}}" target="_blank" rel="noopener noreferrer">
+<div class="bg-neutral-800 text-white w-full py-16 rounded shadow flex justify-center">
+    <span class="text-xl">{{c.name}}, {{c.date}}, {{c.location}}</span>
+</div>
+</a>
+{% endif %}
