@@ -13,20 +13,20 @@
             <!-- Main Menu -->
             <ul id="main-menu" class="hidden absolute px-4 max-md:w-full top-full md:static md:flex md:flex-row bg-white shadow-lg md:shadow-none md:space-x-5 items-center">
                 <li class="md:py-0 py-2">
-                    <a href="{{ '/series/history/' | relative_url }}">The Series</a>
+                    <a class="hover:underline underline-offset-4" href="{{ '/series/history/' | relative_url }}">The Series</a>
                 </li>
                 <li class="md:py-0 py-2">
-                    <a href="{{ '/series/steering-committee/' | relative_url }}">Steering Committee</a>
+                    <a class="hover:underline underline-offset-4" href="{{ '/series/steering-committee/' | relative_url }}">Steering Committee</a>
                 </li>
                 <li class="md:py-0 py-2">
-                    <a href="{{ '/series/awards/' | relative_url }}">Awards</a>
+                    <a class="hover:underline underline-offset-4" href="{{ '/series/awards/' | relative_url }}">Awards</a>
                 </li>
                 <li class="md:py-0 py-2">
-                    <a href="{{ '/series/call-for-letters-of-interest/' | relative_url }}">Call for Letters of Interest</a>
+                    <a class="hover:underline underline-offset-4" href="{{ '/series/call-for-letters-of-interest/' | relative_url }}">Call for Letters of Interest</a>
                 </li>
                 <li class="md:py-0 py-2">
                   {% assign e = site.data.editions | sort: 'year' | last %}
-                  <a href="{{ e.url }}" target="_blank" rel="noopener noreferrer">{{ e.name }}</a>
+                  <a class="hover:underline underline-offset-4" href="{{ e.url }}" target="_blank" rel="noopener noreferrer">{{ e.name }}</a>
                 </li>
             </ul>
         </div>
