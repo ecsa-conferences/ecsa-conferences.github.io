@@ -1,7 +1,7 @@
 ---
 layout: home
 title: ECSA
-permalink: /series/index.html
+permalink: /series/
 ---
 
 The European Conference on Software Architecture (ECSA) is the premier European software architecture conference, providing researchers, practitioners, and educators with a platform to present and discuss the most recent, innovative, and significant findings and experiences in the field of software architecture research and practice.

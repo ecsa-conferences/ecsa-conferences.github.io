@@ -2,7 +2,7 @@
 layout: default
 title: Awards - ECSA
 header: Awards
-permalink: /series/awards.html
+permalink: /series/awards/
 ---
 
 ## Most Influential Papers

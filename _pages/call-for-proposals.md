@@ -2,7 +2,7 @@
 layout: default
 title: Call for Proposals - ECSA
 header: Call for Proposals
-permalink: /series/call-for-proposals.html
+permalink: /series/call-for-proposals/
 ---
 
 ECSA Steering Committee represented by its chair, Paris Avgeriou, invite respected members of the software architecture community to submit their interest in organizing one of the future ECSA conferences. Please note that according to the ECSA charter, the conference moves between countries (shall not take place on the same country twice in a row).
