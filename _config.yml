@@ -2,7 +2,7 @@ title: European Conference on Software Architecture (ECSA) series
 email: d.feitosa@rug.nl
 description: >-
   Website of the European Conference on Software Architecture (ECSA) series. Here you can find information about the ECSA history, steering committee, and awards.
-baseurl: "/series/"
+baseurl: "/"
 # url: ""
 # twitter_username: jekyllrb
 # github_username:  jekyll

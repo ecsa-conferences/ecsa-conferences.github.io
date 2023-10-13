@@ -2,7 +2,7 @@
 layout: default
 title: Steering Committee - ECSA
 header: Steering Committee
-permalink: /steering-committee.html
+permalink: /series/steering-committee.html
 ---
 
 The ECSA Steering Committee is responsible for constituting and guiding each edition of ECSA and for establishing and evaluating practices that are binding upon the organizers of each conference for the continued technical and financial success of ECSA, as framed by ECSA Steering Committee Charter.
