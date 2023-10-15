@@ -483,6 +483,10 @@
         "date": "4-5 September",
         "url": "",
         "url-archive": "https://web.archive.org/web/20061008065845/http://www.sciences.univ-nantes.fr/lina/ewsa2006/",
+        "banner" : {
+            "path" : "/assets/img/ewsa-2006-banner.jpg",
+            "width" : "100%"
+        },
         "committe": {
             "organizing-chair": [
                 "Mourad Oussalah"
