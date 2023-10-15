@@ -238,7 +238,7 @@
         "url-archive": "https://web.archive.org/web/20160525061804/http://ecsa-conference.org/2015/",
         "banner": {
             "path": "/assets/img/ecsa-2015-banner.jpg",
-            "width": "100%"
+            "width": "80%"
         },
         "committe": {
             "general-chair": [
@@ -320,7 +320,7 @@
         "url-archive": "https://web.archive.org/web/20230311075138/http://wicsa2012.soberit.hut.fi/",
         "banner": {
             "path": "/assets/img/ecsa-wicsa-2012-banner.jpg",
-            "width": "100%"
+            "width": "80%"
         },
         "committe": {
             "general-chair": [
@@ -349,7 +349,7 @@
         "url-archive": "https://web.archive.org/web/20120915064718/http://www.ecsa2011.org/",
         "banner": {
             "path": "/assets/img/ecsa-2011-banner.jpg",
-            "width": "100%"
+            "width": "80%"
         },
         "committe": {
             "general-chair": [
