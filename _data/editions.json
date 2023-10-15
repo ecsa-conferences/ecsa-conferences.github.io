@@ -482,8 +482,11 @@
         "location": "Nantes, France",
         "date": "4-5 September",
         "url": "",
-        "url-archive": "",
+        "url-archive": "https://web.archive.org/web/20061008065845/http://www.sciences.univ-nantes.fr/lina/ewsa2006/",
         "committe": {
+            "organizing-chair": [
+                "Mourad Oussalah"
+            ]
         },
         "proceedings": {
             "url": "https://doi.org/10.1007/11966104",
