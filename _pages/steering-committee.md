@@ -9,14 +9,15 @@ The ECSA Steering Committee fosters and selects proposals for organizing ECSA. I
 
 The members of the ECSA Steering Committee are:
 
-* Paris Avgeriou, University of Groningen, The Netherlands
+* **(Chair)** Paris Avgeriou, University of Groningen, The Netherlands
+* **(Vice-Chair)** Raffaela Mirandola, Politecnico di Milano, Italy
+* **(Secretary)** Carlos E. Cuesta, Rey Juan Carlos University, Spain
 * Thais Batista, Federal University of Rio Grande do Norte, Brazil
 * Stefan Biffl, Vienna University of Technology, Austria
 * Tomás Bures, Charles University, Czech Republic
 * Chouki Tibermacine, University of Montpellier, France
 * Catia Trubiani, Gran Sasso Science Institute, Italy
 * Laurence Duchien, University of Lille, France
-* Carlos E. Cuesta, Rey Juan Carlos University, Spain
 * David Garlan, Carnegie Mellon University, United States
 * Ilias Gerostathopoulos, Vrije Universiteit Amsterdam, Netherlands
 * Paola Inverardi, University of L'Aquila, Italy
@@ -24,7 +25,6 @@ The members of the ECSA Steering Committee are:
 * Patricia Lago, Vrije Universiteit Amsterdam, Netherlands
 * Grace Lewis, Carnegie Mellon Software Engineering Institute, United States
 * Ivano Malavolta, Vrije Universiteit Amsterdam, Netherlands
-* Raffaela Mirandola, Politecnico di Milano, Italy
 * Henry Muccini, University of L'Aquila, Italy
 * Elena Navarro, University of Castilla-La Mancha, Spain
 * Flávio Oquendo, IRISA (UMR CNRS) - Univ. Bretagne-Sud (UBS), France
