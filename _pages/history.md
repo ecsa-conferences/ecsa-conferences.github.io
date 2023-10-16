@@ -2,7 +2,7 @@
 layout: default
 title: History - ECSA
 header: History
-permalink: /series/history/
+permalink: /series/history-alt/
 ---
 
 The European Conference on Software Architecture (ECSA) has its roots in the European Workshop on Software Architecture (EWSA), which was inaugurated in 2004. Due to its rapid growth and popularity, EWSA evolved into the first edition of ECSA in 2007.
