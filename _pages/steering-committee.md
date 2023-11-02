@@ -5,7 +5,7 @@ header: Steering Committee
 permalink: /series/steering-committee/
 ---
 
-The ECSA Steering Committee fosters and selects proposals for organizing ECSA. It is responsible for constituting and guiding each edition of ECSA and for establishing and evaluating practices that are binding upon the organizers of each conference for the continued technical and financial success of ECSA, as framed by [ECSA Charter](https://ecsa2020.disim.univaq.it/getImage/orig/ECSA-Steering_Committee_Charter-v1.0-ECSA2020.pdf).
+The ECSA Steering Committee fosters and selects proposals for organizing ECSA. It is responsible for constituting and guiding each edition of ECSA and for establishing and evaluating practices that are binding upon the organizers of each conference for the continued technical and financial success of ECSA, as framed by [ECSA Charter](/assets/docs/ECSA-Steering_Committee_Charter-v2023-11-01.pdf).
 
 The members of the ECSA Steering Committee are:
 
