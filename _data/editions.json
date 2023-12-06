@@ -1,5 +1,23 @@
 [
     {
+        "year": "2024",
+        "name": "ECSA 2024",
+        "edition": "18th",
+        "location": "Luxembourg, Luxembourg",
+        "date": "2-6 September",
+        "url": "https://conf.researchr.org/home/ecsa-2024",
+        "banner": {
+            "path": "/assets/img/ecsa-2024-banner.jpg",
+            "width": "100%"
+        },
+        "committe": {
+            "general-chair": [
+                "Elena Navarro",
+                "Elisa Yumi Nakagawa"
+            ]
+        }
+    },
+    {
         "year": "2023",
         "name": "ECSA 2023",
         "edition": "17th",
