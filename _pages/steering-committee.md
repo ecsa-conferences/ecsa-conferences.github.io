@@ -30,7 +30,6 @@ The members of the ECSA Steering Committee are:
 * Flávio Oquendo, IRISA (UMR CNRS) - Univ. Bretagne-Sud (UBS), France
 * Ipek Ozkaya, Carnegie Mellon University, United States
 * Jennifer Perez, Universidad Politécnica de Madrid (UPM), Spain
-* Danny Weyns, KU Leuven, Belgium
 
 ## ECSA SC Fellows
 
