@@ -5,7 +5,7 @@ header: Steering Committee
 permalink: /series/steering-committee/
 ---
 
-The ECSA Steering Committee fosters and selects proposals for organizing ECSA. It is responsible for constituting and guiding each edition of ECSA and for establishing and evaluating practices that are binding upon the organizers of each conference for the continued technical and financial success of ECSA, as framed by [ECSA Charter](/assets/docs/ECSA-Steering_Committee_Charter-v2023-11-01.pdf).
+The ECSA Steering Committee fosters and selects proposals for organizing ECSA. It is responsible for constituting and guiding each edition of ECSA and for establishing and evaluating practices that are binding upon the organizers of each conference for the continued technical and financial success of ECSA, as framed by [ECSA Charter](/assets/docs/ECSA-Steering_Committee_Charter-v2023-11-01.pdf). Finally, the ECSA Steering Committee collaborate with the <a href="https://icsa-conferences.org/series/steering-committee/" target="_blank" rel="noopener">ICSA Steering Committee</a> to foster the advancement of the software architecture community.
 
 The members of the ECSA Steering Committee are:
 
