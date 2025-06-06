@@ -7,7 +7,7 @@ permalink: /series/call-for-letters-of-interest/
 
 The ECSA Steering Committee fosters and selects proposals for organizing ECSA. Its composition is available [here](/series/steering-committee/). ECSA is self-funded. Each year the organization of ECSA is funded from the payment of registration fees and additional sponsors or actions.
 
-The ECSA Steering Committee now invites the submission of Letters of Interest to organize ECSA in September 2025 and onwards. More information about the conference organization can be found at the [ECSA Charter](/assets/docs/ECSA-Steering_Committee_Charter-v2023-11-01.pdf). Also, Organizing Committees must adhere to the [ECSA rulebook](/assets/docs/ECSA-rulebook-v1.0.pdf).
+The ECSA Steering Committee now invites the submission of Letters of Interest to organize ECSA in September 2025 and onwards. More information about the conference organization can be found at the [ECSA Charter](/assets/docs/ECSA-Steering_Committee_Charter-v2023-11-01.pdf). Also, Organizing Committees must adhere to the [ECSA rulebook](/assets/docs/ECSA-rulebook-v1.1.pdf).
 
 The Letters of Interest are meant to inform the ECSA Steering Committee of the potential intent of teams to organize ECSA in prospective venues. Please note that the submission of the letter is just the first step in a more extensive evaluation procedure as indicated in the ECSA Charter.
 
