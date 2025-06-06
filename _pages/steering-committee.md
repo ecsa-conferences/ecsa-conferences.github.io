@@ -9,27 +9,32 @@ The ECSA Steering Committee fosters and selects proposals for organizing ECSA. I
 
 The members of the ECSA Steering Committee are:
 
-* **(Chair)** Paris Avgeriou, University of Groningen, The Netherlands
-* **(Vice-Chair)** Raffaela Mirandola, Politecnico di Milano, Italy
+* **(Chair)** Paris Avgeriou, University of Groningen, Netherlands
+* **(Vice-Chair)** Raffaela Mirandola, Karlsruhe Institute of Technology (KIT), Germany
 * **(Secretary)** Carlos E. Cuesta, Rey Juan Carlos University, Spain
+* Nour Ali, Brunel University London, UK
+* Vasilios Andrikopoulos, University of Groningen, Netherlands
 * Thais Batista, Federal University of Rio Grande do Norte, Brazil
-* Stefan Biffl, Vienna University of Technology, Austria
-* Tomás Bures, Charles University, Czech Republic
-* Chouki Tibermacine, University of Montpellier, France
-* Catia Trubiani, Gran Sasso Science Institute, Italy
-* Laurence Duchien, University of Lille, France
-* David Garlan, Carnegie Mellon University, United States
+* Stefan Biffl, Technical University of Vienna, Austria
+* Tomas Bures, Charles University, Czech Republic
+* Matthias Galster, University of Canterbury, New Zealand
 * Ilias Gerostathopoulos, Vrije Universiteit Amsterdam, Netherlands
-* Paola Inverardi, University of L'Aquila, Italy
-* Bedir Tekinerdogan, Wageningen University, The Netherlands
-* Patricia Lago, Vrije Universiteit Amsterdam, Netherlands
-* Grace Lewis, Carnegie Mellon Software Engineering Institute, United States
+* Andrea Janes, Free University of Bozen-Bolzano, Italy
+* Patricia Lago, VU University Amsterdam, Netherlands
+* Grace Lewis, Carnegie Mellon Software Engineering Institute, USA
 * Ivano Malavolta, Vrije Universiteit Amsterdam, Netherlands
 * Henry Muccini, University of L'Aquila, Italy
+* Elisa Yumi Nakagawa, University of São Paulo, Brazil
 * Elena Navarro, University of Castilla-La Mancha, Spain
-* Flávio Oquendo, IRISA (UMR CNRS) - Univ. Bretagne-Sud (UBS), France
-* Ipek Ozkaya, Carnegie Mellon University, United States
-* Jennifer Perez, Universidad Politécnica de Madrid (UPM), Spain
+* Flavio Oquendo, IRISA - University of Brittany, France
+* Ipek Ozkaya, Carnegie Mellon Software Engineering Institute, USA
+* Cesare Pautasso, Software Institute - USI Lugano, Switzerland
+* Patrizia Scandurra, Università degli Studi di Bergamo, Italy
+* Jacopo Soldani, University of Pisa, Italy
+* Davide Taibi, University of Oulu, Finland
+* Bedir Tekinerdogan, Wageningen University & Research, Netherlands
+* Chouki Tibermacine, University of Montpellier, France
+* Catia Trubiani, Gran Sasso Science Institute, Italy
 
 ## ECSA SC Fellows
 
