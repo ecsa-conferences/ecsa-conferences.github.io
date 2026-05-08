@@ -1,5 +1,23 @@
 [
     {
+        "year": "2026",
+        "name": "ECSA 2026",
+        "edition": "20th",
+        "location": "Bolzano, Italy",
+        "date": "7-11 September",
+        "url": "https://conf.researchr.org/home/ecsa-2026",
+        "banner": {
+            "path": "/assets/img/ecsa-2026-banner.jpg",
+            "width": "100%"
+        },
+        "committe": {
+            "general-chair": [
+                "Andrea Janes",
+                "Davide Taibi"
+            ]
+        }
+    },
+    {
         "year": "2025",
         "name": "ECSA 2025",
         "edition": "19th",
