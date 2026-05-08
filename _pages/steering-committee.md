@@ -5,7 +5,7 @@ header: Steering Committee
 permalink: /series/steering-committee/
 ---
 
-The ECSA Steering Committee fosters and selects proposals for organizing ECSA. It is responsible for constituting and guiding each edition of ECSA and for establishing and evaluating practices that are binding upon the organizers of each conference for the continued technical and financial success of ECSA, as framed by the [ECSA Charter](/assets/docs/ECSA-Steering_Committee_Charter-v2025-12-03.pdf). Finally, the ECSA Steering Committee collaborate with the <a href="https://icsa-conferences.org/series/steering-committee/" target="_blank" rel="noopener">ICSA Steering Committee</a> to foster the advancement of the software architecture community.
+The ECSA Steering Committee fosters and selects proposals for organizing ECSA. It is responsible for constituting and guiding each edition of ECSA and for establishing and evaluating practices that are binding upon the organizers of each conference for the continued technical and financial success of ECSA, as framed by the [ECSA Charter](/assets/docs/ECSA-Steering_Committee_Charter-v2026-05-08.pdf). Finally, the ECSA Steering Committee collaborate with the <a href="https://icsa-conferences.org/series/steering-committee/" target="_blank" rel="noopener">ICSA Steering Committee</a> to foster the advancement of the software architecture community.
 
 The members of the ECSA Steering Committee are:
 
@@ -20,8 +20,10 @@ The members of the ECSA Steering Committee are:
 * Matthias Galster, University of Canterbury, New Zealand
 * Ilias Gerostathopoulos, Vrije Universiteit Amsterdam, Netherlands
 * Andrea Janes, Free University of Bozen-Bolzano, Italy
+* John Klein, Carnegie Mellon Software Engineering Institute, USA
 * Patricia Lago, VU University Amsterdam, Netherlands
 * Grace Lewis, Carnegie Mellon Software Engineering Institute, USA
+* Ivano Malavolta, VU University Amsterdam, Netherlands
 * Ana Moreira, Nova University of Lisbon and Nova LINCS, Portugal
 * Henry Muccini, University of L'Aquila, Italy
 * Elisa Yumi Nakagawa, University of São Paulo, Brazil
