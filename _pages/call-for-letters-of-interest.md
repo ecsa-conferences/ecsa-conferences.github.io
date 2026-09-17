@@ -5,19 +5,44 @@ header: Call for Letters of Interest
 permalink: /series/call-for-letters-of-interest/
 ---
 
-The ECSA Steering Committee fosters and selects proposals for organizing ECSA. Its composition is available [here](/series/steering-committee/). ECSA is self-funded. Each year the organization of ECSA is funded from the payment of registration fees and additional sponsors or actions.
+The Steering Committee of ECSA invites Letters of Interest (LoI) from teams interested in hosting future editions of ECSA, starting with ECSA 2028 and subsequent years.
 
-The ECSA Steering Committee now invites the submission of Letters of Interest to organize ECSA in September 2027 and onwards. More information about the conference organization can be found at the [ECSA Charter](/assets/docs/ECSA-Steering_Committee_Charter-v2026-05-08.pdf). Also, Organizing Committees must adhere to the [ECSA rulebook](/assets/docs/ECSA-rulebook-v1.1.pdf).
+## Why Host ECSA?
 
-The Letters of Interest are meant to inform the ECSA Steering Committee of the potential intent of teams to organize ECSA in prospective venues. Please note that the submission of the letter is just the first step in a more extensive evaluation procedure as indicated in the ECSA Charter.
+Since 2007, ECSA has established itself as the premier European Conference on Software Architecture and one of the two leading international venues in the field. ECSA brings together researchers, practitioners, and educators, to exchange ideas, present cutting-edge research, and shape the future of software architecture.
 
-The Letter of Interest to organize ECSA 2027 (and onwards) must include:
+Hosting ECSA offers a unique opportunity to:
+- Strengthen national and international collaborations between academia and industry.
+- Engage researchers, practitioners, and sponsors in a flagship international event.
+- Leave a lasting impact on the ECSA community and the broader software engineering field.
+
+The [ECSA Steering Committee](/series/steering-committee/) works closely with organizing teams and provides guidance throughout the planning and execution process.
+
+## Who Should Apply?
+
+We particularly encourage proposals that broaden ECSA's geographical reach and strengthen engagement with practitioners, industry, and emerging software architecture communities.
+
+## What Should the Letter of Interest Contain?
+
+The Letter of Interest is intended as a lightweight first step that allows the Steering Committee to identify and support prospective organizers. Please note that there are more steps in the evaluation procedure as indicated in the [ECSA Charter](/assets/docs/ECSA-Steering_Committee_Charter-v2026-05-08.pdf).
+
+The LoI should include:
 - the proposed General Chair (name and short CV, including experience on organizing international conferences),
 - the location (general presentation of the potential venue and the city),
-- a preliminary list of organizations supporting the proposal, including academia, research institutions, industry and other relevant organizations.
+- a preliminary list of organizations supporting the proposal, including academia, research institutions, industry and sponsors.
 
-The proposal may also include an initial list of names for potential Program Chair(s) and other Organizing Committee members, but these are not binding as they are approved by the Steering Committee in a separate procedure.
+Teams may also suggest potential Program Chairs and other Organizing Committee members, although these appointments are subject to the procedures defined in the [ECSA Charter](/assets/docs/ECSA-Steering_Committee_Charter-v2026-05-08.pdf).
 
-Submission of the Letter of Interest:
-- **Deadline:** 30th June 2025 (23:59 Anywhere on Earth)
-- **Procedure:** Send your application by email to the SC chair, [Paris Avgeriou](mailto:p.avgeriou@rug.nl).
+## Important Information
+
+ECSA is held annually in Europe, typically in September. Since its inception, the conference proceedings have been published by Springer in the Lecture Notes in Computer Science (LNCS) series.
+
+Additional information about conference organization, responsibilities, and selection procedures can be found in the [ECSA Charter](/assets/docs/ECSA-Steering_Committee_Charter-v2026-05-08.pdf) and [ECSA rulebook](/assets/docs/ECSA-rulebook-v1.1.pdf).
+
+
+## Submission
+
+- **Deadline**: 15th October 2026 (23:59 Anywhere on Earth)
+- **Submit to**: [Paris Avgeriou](mailto:p.avgeriou@rug.nl), Chair of the ECSA Steering Committee
+
+Questions and informal inquiries are welcome and can be directed to the Steering Committee Chair or any member of the ECSA Steering Committee.
