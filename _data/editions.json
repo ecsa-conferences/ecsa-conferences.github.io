@@ -1,5 +1,23 @@
 [
     {
+        "year": "2027",
+        "name": "ECSA 2027",
+        "edition": "21th",
+        "location": "Porto, Portugal",
+        "date": "27 September - 1 October",
+        "url": "https://conf.researchr.org/home/ecsa-2027",
+        "banner": {
+            "path": "/assets/img/ecsa-2027-banner.webp",
+            "width": "100%"
+        },
+        "committe": {
+            "general-chair": [
+                "Filipe Figueiredo Correia",
+                "Uwe Zdun"
+            ]
+        }
+    },
+    {
         "year": "2026",
         "name": "ECSA 2026",
         "edition": "20th",
